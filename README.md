@@ -1,5 +1,6 @@
 # REAL-TIME-FACEMASK
-
+## usage
+This project is to detect the person is wear facemask or not wearing facemask in public places like railway station, airport, market 
 ## Face Detection using Open CV and Haar Cascades
 
 This requires ***Open CV, Python, Haar Cascades training data and suitable OS platform (Mac, Linux or Windows)***. 
