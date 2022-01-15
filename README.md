@@ -15,7 +15,7 @@ OpenCV 3.4.3 was used with this project, suitable for Python 2.7.14. To determin
 
 see this website for futher classification
 
-[opencv-python/][https://pypi.org/project/opencv-python/]
+[opencv-python/](https://pypi.org/project/opencv-python/)
 
 ```import cv2```
 
@@ -23,7 +23,7 @@ Images used in this project were set to a resolution of 500 x 331 pixels (JPEG)
 
 For documentation, please read:
 
-[haar-cascade-classifiers][https://becominghuman.ai/face-detection-using-opencv-with-haar-cascade-classifiers-941dbb25177]
+[haar-cascade-classifiers](https://becominghuman.ai/face-detection-using-opencv-with-haar-cascade-classifiers-941dbb25177)
 
 ##How to Use
 To use this project on your system, follow these steps:
@@ -34,7 +34,7 @@ git clone  followed by: ```https://github.com/hapisnake/REAL-TIME-FACEMASK.git``
 2.cd FaceMaskDetector
 Download all libaries using::```pip install -r requirements.txt```
 
-Run facemask.py by typing the following command on your Command Prompt:0 ```python facemask.py```
+3.Run facemask.py by typing the following command on your Command Prompt:0 ```python facemask.py```
 
 
 The Project is now ready to use !!
